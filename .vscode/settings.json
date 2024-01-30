@@ -1,0 +1,18 @@
+{
+    // set to false / remove it from the list to show the files
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "node_modules": true,
+        "index.html": true,
+        ".eslint*": true,
+        "pnpm-lock.yaml": true,
+        "postcss.config.js": true,
+        "tsconfig.node.json": true,
+        "tailwind.config.js": true,
+    }
+}
